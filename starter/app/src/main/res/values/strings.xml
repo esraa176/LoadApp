@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ND940C3-Project</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="notification_title">Udacity: Android Kotlin Nanodegree </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="button_name">DOWNLOAD</string>
+    <string name="button_loading">DOWNLOADING  </string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="glide_radio_button">Glide - Image Loading Library by BumpTech</string>
+    <string name="loadApp_radio_button">LoadApp - Current repository by Udacity</string>
+    <string name="retrofit_radio_button">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc</string>
+    <string name="file_name">File:</string>
+    <string name="status">Status:</string>
+    <string name="ok">OK</string>
+    <string name="cloud_download_icon">Cloud download icon</string>
+
+</resources>
